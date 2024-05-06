@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "tutorialmod:cut_sapphire"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "tutorialmod:sapphire_button"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 2.8,
+  "group": "sapphire",
+  "ingredient": {
+    "item": "tutorialmod:raw_blueberry_pie"
+  },
+  "result": "tutorialmod:cooked_blueberry_pie"
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "tutorialmod:cut_sapphire"
+    },
+    "S": {
+      "item": "tutorialmod:sapphire_stick"
+    }
+  },
+  "pattern": [
+    "S#S",
+    "S#S"
+  ],
+  "result": {
+    "item": "tutorialmod:sapphire_fence_gate"
+  }
+}

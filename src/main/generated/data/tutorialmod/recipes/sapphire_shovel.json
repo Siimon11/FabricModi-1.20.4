@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "tutorialmod:sapphire"
+    },
+    "S": {
+      "item": "tutorialmod:sapphire_stick"
+    }
+  },
+  "pattern": [
+    "#",
+    "S",
+    "S"
+  ],
+  "result": {
+    "item": "tutorialmod:sapphire_shovel"
+  }
+}

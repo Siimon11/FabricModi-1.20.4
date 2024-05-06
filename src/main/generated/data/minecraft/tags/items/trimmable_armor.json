@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "tutorialmod:sapphire_helmet",
+    "tutorialmod:sapphire_chestplate",
+    "tutorialmod:sapphire_leggings",
+    "tutorialmod:sapphire_boots"
+  ]
+}

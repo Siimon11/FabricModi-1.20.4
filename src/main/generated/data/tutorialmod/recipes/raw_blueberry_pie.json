@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "tutorialmod:blueberry"
+    },
+    "S": {
+      "item": "minecraft:sugar"
+    },
+    "F": {
+      "item": "tutorialmod:flour"
+    },
+    "E": {
+      "item": "minecraft:egg"
+    }
+  },
+  "pattern": [
+    "BBB",
+    "SES",
+    "FFF"
+  ],
+  "result": {
+    "item": "tutorialmod:raw_blueberry_pie"
+  }
+}

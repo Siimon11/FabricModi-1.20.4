@@ -1,0 +1,77 @@
+{
+  "item.tutorialmod.sapphire": "Sapphire",
+  "item.tutorialmod.cut_sapphire": "Cut Sapphire",
+  "item.tutorialmod.flour": "Flour",
+  "item.tutorialmod.blueberry": "Blueberry",
+  "item.tutorialmod.cooked_blueberry_pie": "Cooked Blueberry Pie",
+  "item.tutorialmod.raw_blueberry_pie": "Raw Blueberry Pie",
+  "item.tutorialmod.metal_detector": "Metal Detector",
+  "item.tutorialmod.ruby_staff": "Ruby Staff",
+  "item.tutorialmod.coal_pile": "Coal Pile",
+  "item.tutorialmod.sapphire_stick": "Sapphire Stick",
+
+  "item.tutorialmod.sapphire_pickaxe": "Sapphire Pickaxe",
+  "item.tutorialmod.sapphire_axe": "Sapphire Axe",
+  "item.tutorialmod.sapphire_shovel": "Sapphire Shovel",
+  "item.tutorialmod.sapphire_sword": "Sapphire Sword",
+  "item.tutorialmod.sapphire_hoe": "Sapphire Hoe",
+
+  "item.tutorialmod.sapphire_helmet": "Sapphire Helmet",
+  "item.tutorialmod.sapphire_chestplate": "Sapphire Chestplate",
+  "item.tutorialmod.sapphire_leggings": "Sapphire Leggings",
+  "item.tutorialmod.sapphire_boots": "Sapphire Boots",
+
+  "item.tutorialmod.tomato_seeds": "Tomato Seeds",
+  "item.tutorialmod.tomato": "Tomato",
+  "item.tutorialmod.corn": "Corn",
+  "item.tutorialmod.corn_seeds": "Corn Seeds",
+
+  "block.tutorialmod.dahlia": "Dahlia",
+  "block.tutorialmod.kukka1": "Kukka",
+
+  "entity.minecraft.villager.sound_master": "Soundmaster",
+
+  "block.tutorialmod.cut_sapphire_block": "Block Of Cut Sapphire",
+  "block.tutorialmod.sapphire_block": "Sapphire Block",
+  "block.tutorialmod.sound_block": "Sound Block",
+
+  "block.tutorialmod.sapphire_stairs": "Sapphire Stairs",
+  "block.tutorialmod.sapphire_slab": "Sapphire Slab",
+  "block.tutorialmod.sapphire_button": "Sapphire Button",
+  "block.tutorialmod.sapphire_pressure_plate": "Sapphire Pressure Plate",
+  "block.tutorialmod.sapphire_fence": "Sapphire Fence",
+  "block.tutorialmod.sapphire_fence_gate": "Sapphire Fence Gate",
+  "block.tutorialmod.sapphire_wall": "Sapphire Wall",
+  "block.tutorialmod.sapphire_door": "Sapphire Door",
+  "block.tutorialmod.sapphire_trapdoor": "Sapphire Trapdoor",
+
+  "block.tutorialmod.sapphire_ore": "Sapphire Ore",
+  "block.tutorialmod.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
+  "block.tutorialmod.nether_sapphire_ore": "Nether Sapphire Ore",
+  "block.tutorialmod.end_stone_sapphire_ore": "Endstone Sapphire Ore",
+
+  "block.tutorialmod.gem_polishing_station": "Gem Polishing Station",
+
+  "item.tutorialmod.dice": "Dice",
+
+  "block.tutorialmod.chestnut_log": "Chestnut Log",
+  "block.tutorialmod.chestnut_wood": "Chestnut Wood",
+  "block.tutorialmod.stripped_chestnut_log": "Stripped Chestnut Log",
+  "block.tutorialmod.stripped_chestnut_wood": "Stripped Chestnut Wood",
+  "block.tutorialmod.chestnut_planks": "Chestnut Planks",
+  "block.tutorialmod.chestnut_leaves": "Chestnut Leaves",
+
+  "block.tutorialmod.chestnut_standing_sign": "Chestnut Standing Sign",
+  "block.tutorialmod.chestnut_wall_sign": "Chestnut Wall Sign",
+  "block.tutorialmod.chestnut_hanging_sign": "Chestnut Hanging Sign",
+  "block.tutorialmod.chestnut_wall_hanging_sign": "Chestnut Wall Hanging Sign",
+
+  "item.tutorialmod.bar_brawl_music_disc": "Bar Brawl Music Disc",
+  "item.tutorialmod.bar_brawl_music_disc.desc": "Bryan Tech - Bar Brawl",
+
+  "tooltip.tutorialmod.metal_detector.tooltip": "Finds valuables underground",
+
+  "sounds.tutorialmod.metal_detector_found_ore": "Metal Detector Jingles",
+
+  "itemgroup.sapphire": "Mod Item Group"
+}
